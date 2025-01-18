@@ -53,9 +53,6 @@ function task2() {
             </div>
         </div>
 
-        <h3>Програмний код</h3><br>
-        <img src="./images/task2_prog.png" alt="">
-
     `;
 
     const swapButton = document.getElementById('swapButton');
@@ -89,8 +86,6 @@ function task4() {
             <button id="increaseButton">Збільшити</button>
         </div>
 
-        <h3>Програмний код</h3><br>
-        <img src="./images/task4_prog.png" alt="">
 
     `;
 
@@ -139,9 +134,6 @@ function task6() {
 
             <button id="doubleButton">Подвоїти</button>
         </div>
-
-        <h3>Програмний код</h3><br>
-        <img src="./images/task6_prog.png" alt="">
 
     `;
 
@@ -198,9 +190,6 @@ function task7() {
             </ul>
         </div>
 
-        <h3>Програмний код</h3><br>
-        <img src="./images/task7_prog.png" alt="">
-
     `;
 
     const categories = document.querySelectorAll('#categories .item');
@@ -238,9 +227,6 @@ function task8() {
                 <button type="submit">Log in</button>
             </form>
         </div>
-
-        <h3>Програмний код</h3><br>
-        <img src="./images/task8_prog.png" alt="">
 
     `;
 
@@ -281,9 +267,6 @@ function task9() {
           <p>Background color: <span class="color">-</span></p>
           <button type="button" class="change-color">Change color</button>
         </div>
-
-        <h3>Програмний код</h3><br>
-        <img src="./images/task9_prog.png" alt="">
     `;
 
     function getRandomHexColor() {
@@ -325,8 +308,6 @@ function task10() {
 
         <div id="boxes"></div>
 
-        <h3>Програмний код</h3><br>
-        <img src="./images/task10_prog.png" alt="">
 
     `;
 
